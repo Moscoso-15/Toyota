@@ -54,7 +54,8 @@ con procesos de producción en serie, estableciendo las bases para lo quemás ta
 <li>Características: Parte fundamental del éxito del Toyota Prius, este motor híbrido es conocido por su eficiencia en el consumo de combustible y bajas emisiones.
 
 
-<font size=6 color="grey" face="Comic Sans MS"><marquee behavior="alternate"><b>5 Modelos más vendidos de Toyota:</b><ol>
+<font size=6 color="grey" face="Comic Sans MS"><marquee behavior="alternate"><b>5 Modelos más vendidos de Toyota:</b></marquee>
+<ol>
 <li>Toyota corolla
  <img src="corolla.jpg" width=300 height=200>
 <li>Toyota Camry
@@ -65,4 +66,4 @@ con procesos de producción en serie, estableciendo las bases para lo quemás ta
  <img src="hilux.jpg" width=300 height=200>
 <li>Toyota Land Cruiser
  <img src="land.jpg" width=300 height=200>
-<ol>
+</ol>
