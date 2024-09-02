@@ -24,7 +24,7 @@ la industria automotriz tras estudiar la producción en masa de automóviles en 
 con procesos de producción en serie, estableciendo las bases para lo quemás tarde se convertiría en el Sistema de Producción Toyota, conocido por su eficiencia y alta calidad.
 
 
-  <img src="historia.jpg" width=300 height=200></img> </center> 
+  <img src="historia.jpg" width=300 height=200></center>
 
 
 <font size=6 color="grey" face="Comic Sans MS"><b>Mejores Motores de Toyota:</b></font>
@@ -52,18 +52,18 @@ con procesos de producción en serie, estableciendo las bases para lo quemás ta
 <u>Motor 1.8L 2ZR-FXE Híbrido</u>
 <li>Uso: Toyota Prius.
 <li>Características: Parte fundamental del éxito del Toyota Prius, este motor híbrido es conocido por su eficiencia en el consumo de combustible y bajas emisiones.
-</ul>
+
 
 <font size=6 color="grey" face="Comic Sans MS"><marquee behavior="alternate"><b>5 Modelos más vendidos de Toyota:</b><ol></marquee></font>
 <li>Toyota corolla
- <img src="corolla.jpg" width=300 height=200></img> </center> 
+ <img src="corolla.jpg" width=300 height=200>
 <li>Toyota Camry
- <img src="camry.jpg" width=300 height=200></img> </center> 
+ <img src="camry.jpg" width=300 height=200> 
 <li>Toyota RAV4
- <img src="rav.jpg" width=300 height=200></img> </center> 
+ <img src="rav.jpg" width=300 height=200>
 <li>Toyota Hilux
- <img src="hilux.jpg" width=300 height=200></img> </center> 
+ <img src="hilux.jpg" width=300 height=200>
 <li>Toyota Land Cruiser
- <img src="land.jpg" width=300 height=200></img> </center> 
+ <img src="land.jpg" width=300 height=200>
 <ol>
-</font>
+
