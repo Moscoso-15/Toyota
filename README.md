@@ -66,4 +66,3 @@ con procesos de producción en serie, estableciendo las bases para lo quemás ta
 <li>Toyota Land Cruiser
  <img src="land.jpg" width=300 height=200>
 <ol>
-
